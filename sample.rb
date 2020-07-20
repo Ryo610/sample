@@ -1,7 +1,5 @@
 def hello
-  p "hello, Git."
+  p "hello, GitHub."
 end
-hellodef hello
-p "hello, Git."
-end
+
 hello
